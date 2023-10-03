@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alfira Sindy Ananda</h1>
+<h1 align="center">Hi 👋, I'm Alfira</h1>
 <h3 align="center">A passionate frontend developer and UI/UX Design</h3>
 
 
@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Flutter and React.js**
 
-- 📫 How to reach me **alfirasindya@gmail.com**
+
 
 
 <p align="left">
